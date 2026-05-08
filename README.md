@@ -1,4 +1,6 @@
 # Rabisco
 Projeto de Qualidade de Software
 
-Lucas B
+Lucas B etinha
+
+Christiano G ostão
